@@ -1,6 +1,6 @@
 {
   "short_name": "Official @skriptjonas Website",
-  "name": "creative dude from Germany",
+  "name": "Official @skriptjonas Website",
   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-tXKvQhG_Q70/YJ5uRsyTgYI/AAAAAAABDyQ/2PmfOueRRqYOCZOWRhn6H2WIl-Cb_zW4ACLcBGAsYHQ/s0/android-chrome-192x192.png",
@@ -18,5 +18,5 @@
   "display": "standalone",
   "scope": "https://skriptjonas.github.io/pwa/",
   "theme_color": "#057374",
-  "description": "Weather forecast information",
+  "description": "creative dude from Germany",
 }
