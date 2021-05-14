@@ -13,7 +13,7 @@
       "sizes": "512x512"
     }
   ],
-"start_url": "https://skriptjonas.blogspot.com/",
+  "start_url": "https://skriptjonas.github.io/pwa/",
   "background_color": "#057374",
   "display": "standalone",
   "scope": "/",
